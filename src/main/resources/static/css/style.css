@@ -1,0 +1,34 @@
+h1 {
+	color: blue;
+}
+
+.custom-width {
+	max-width: 800px; /* Adjust this value as needed */
+}
+
+.italic-text {
+	font-style: italic;
+}
+
+.show-width {
+	max-width: 380px;
+}
+
+.show-bg-color {
+	background-color: #9FC5F8;
+}
+
+td {
+	vertical-align: middle;
+}
+
+/* Style for the button */
+.submit-button {
+	text-decoration: none; /* Remove the default underline */
+	transition: text-decoration 0.2s; /* Add a smooth transition effect */
+}
+
+/* Style for the button when hovered */
+.submit-button:hover {
+	text-decoration: underline; /* Underline the text on hover */
+}

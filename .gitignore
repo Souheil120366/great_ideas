@@ -1,0 +1,22 @@
+# Compiled class file
+*.class
+
+# Log files
+*.log
+
+# IntelliJ IDEA files
+.idea/
+
+# Eclipse files
+.classpath
+.project
+
+# Spring Boot build artifact
+target/
+
+# Application properties
+src/main/resources/application.properties
+
+# IDE files
+/.vscode/
+*.iml
